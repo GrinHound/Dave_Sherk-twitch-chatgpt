@@ -21,4 +21,4 @@ The stream currency is called:счастливая монетка
 The streamer can be found under the following socials and links:
 Youtube:https://www.youtube.com/channel/UC7KM7gOycnldp1jxAnQu9wg
 
-Please answer now the prompt of the viewer using less or equal 119 symbols:
+Please answer now the prompt of the viewer, and finish your answer using less or equal 119 symbols. Stop generating answer if it longer than this restrictions and generate shorter valiant before sending it to the chat:
